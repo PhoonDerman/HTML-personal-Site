@@ -1,0 +1,13 @@
+body{background-color: powderblue;}
+h1 {color: #FB3640;}
+h3 {color: #FB3640;}
+.doggo {background-color: powderblue;}
+.circular {border-radius: 100%;}
+img:hover {background-color: red;}
+hr{background-color: powderblue; border-style: none;
+border-top-style: dotted;
+width: 5%;
+height: 1px;
+border-width: 10px;
+border-color: grey;
+}
